@@ -1,6 +1,5 @@
 ### Step 1: Docker Compose Download
-Docker Compose es 
-
+Nota: En el repo de docker comentamos algunos conceptos de lo que es docker compose, link al repo.
 
 ### Step 2: Docker Compose run
 docker-compose up airflow-init
