@@ -14,4 +14,7 @@ Ya podemos dirigirnos al localhost:8080 para ingresar a la GUI de Airflow. Ingre
 para interctuar con los contenedores ejecutamos
 docker exec containder_id airflow version
 
-### Step 3:  
+### Step 3:
+
+Este caso es util para impactar algun cambio en el file de docker compose. Tambien pueden ser aplicados por separado. 
+docker-compose down && docker-compose up
