@@ -16,5 +16,6 @@ docker exec containder_id airflow version
 
 ### Step 3:
 
-Este caso es util para impactar algun cambio en el file de docker compose. Tambien pueden ser aplicados por separado. 
-docker-compose down && docker-compose up
+Este caso es util para impactar algun cambio en el file de docker compose. Tambien pueden ser aplicados por separado.
+
+`docker-compose down && docker-compose up`
